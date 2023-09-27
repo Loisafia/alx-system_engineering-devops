@@ -1,5 +1,3 @@
 #!/bin/bash
-echo "Alx System Engineering. The ALX Journey
-There are plenty of programmes that teach tech skills. At ALX, our “secret sauce” comes from our career-focused approach to learning. We aim to develop well-rounded tech professionals who are equipped with both the professional and technical skills that enable them to thrive in the most in-demand, high-growth industries. 
+pwd
 
-ALX prides itself on providing rigorous, high-quality training to better prepare learners for the most in-demand tech careers. The ALX Software Engineering Programme full-time, and requires learners to commit to 20 hours of learning per week to successfully complete the coursework. We are not currently admitting applicants who cannot meet the 20-30 hour per week requirement."
