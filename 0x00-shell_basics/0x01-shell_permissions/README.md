@@ -1,0 +1,2 @@
+# A README file is a guide that provides a detailed description of a software project.
+## It communicates important information about a repository or a project and often contains instructions, additional help, and details about patches or updates. Information contained within a README file is often not included in the full documentation or manual for the software, so it is a good idea to read both.
